@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello friend, I'm Ivan</h1>
-  <h3>Technical analitic, Web Developer and Web3 enthusiast</h3>
+  <h3>Technical analitic, Web Developer and Web3 enthusiast 🪿</h3>
 </div>
 
 <br>🌱 I’m currently learning **Web3, Data Scienes, Web Dev, DevOps** <br><br>
