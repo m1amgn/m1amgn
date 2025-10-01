@@ -5,8 +5,8 @@
 
 <br>🌱 I’m currently learning **Web3, Data Scienes, Web Dev, DevOps** <br><br>
 🤔 Ready to participate and assist in Web3 projects and POS validation <br><br>
-📫 How to reach me: [Email](mailto:medvedev.mgn@gmail.com) [Telegram](https://t.me/oedf13) <br><br>
-💬 I speak russian, english<br><br>
+📫 How to reach me: [email](mailto:medvedev.mgn@gmail.com) [telegram](https://t.me/oedf13) <br><br>
+💬 I speak Russian, English<br><br>
 ### My stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
